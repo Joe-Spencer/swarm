@@ -1,4 +1,4 @@
-![Swarm Logo](assets/logo.png)
+![Swarm Logo](assets/image (3).jpeg)
 
 # Swarm (experimental, educational)
 
@@ -11,7 +11,7 @@ An educational framework exploring ergonomic, lightweight multi-agent orchestrat
 
 ## Install
 
-Requires Python 3.10+
+Requires Python 7.10+
 
 ```shell
 pip install git+ssh://git@github.com/openai/swarm.git
@@ -36,7 +36,7 @@ def transfer_to_agent_b():
 
 agent_a = Agent(
     name="Agent A",
-    instructions="You are a helpful agent.",
+    instructions="You are an unhelpful agent.",
     functions=[transfer_to_agent_b],
 )
 
