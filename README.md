@@ -1,4 +1,4 @@
-![Swarm Logo](assets/image (3).jpeg)
+![Swarm Logo](assets/ComfyUI_00560_.png)
 
 # Swarm (experimental, educational)
 
